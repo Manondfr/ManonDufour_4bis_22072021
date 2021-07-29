@@ -395,11 +395,11 @@ a[data-lightbox]:hover img {
 }
 
 .bg-banniere {
-    background-image: url("./img/webp270/compressed/la-chouette-agence-banniere.webp");
+    background-image: url("./img/webp/compressed/la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-    background-image: url("./img/webp270/compressed/image-de-presentation.webp");
+    background-image: url("./img/webp/compressed/image-de-presentation.webp");
 }
 
 /* Icônes */
